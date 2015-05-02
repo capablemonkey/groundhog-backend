@@ -2,6 +2,8 @@
 
 Crowdsourced search
 
+it's up on https://ghog.herokuapp.com/
+
 ## getting started
 
 1. clone repo
