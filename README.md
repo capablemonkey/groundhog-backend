@@ -2,7 +2,13 @@
 
 Crowdsourced search
 
-## requests:
+## getting started
+
+1. clone repo
+2. `npm install`
+3. `node bin/www`
+
+## API reference
 
 ### Get comments for a query and result
 `GET /comments?query={query}&resultURL={url}`
