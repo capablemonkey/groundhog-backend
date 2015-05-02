@@ -8,10 +8,14 @@ Crowdsourced search
 `GET /comments?query={query}&resultURL={url}`
 
 ### Create a new comment
-POST /comments?query={query}&resultURL={url}
+POST `/comments?query={query}&resultURL={url}`
+
 JSON:
+
+```
 {
   comment: 'foo',
   author: '',
   authToken: 'wlkfjlwkejfkwjfl' // user's authentication token
 }
+```
